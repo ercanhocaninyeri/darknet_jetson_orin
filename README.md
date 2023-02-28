@@ -5,5 +5,6 @@
 - Note that the modifications may be different depending on your JetPack version (and hence CUDA and cuDNN) 
 - In my case the the Jetpack version is 5.1 whose contents are available here:
   - https://developer.nvidia.com/embedded/jetpack
+  - https://jetsonhacks.com/2023/01/25/jetpack-sdk-5-1-release-now-live/
 - Path to nvcc is updated too
   - https://stackoverflow.com/a/46110010
